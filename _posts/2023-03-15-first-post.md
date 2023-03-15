@@ -1,3 +1,15 @@
+---
+title: My Post
+date: 2023-03-15
+categories:
+  - Blog
+tags:
+  - YAML
+  - Classes
+classes: wide
+---
+
+
 HELLO
 
 
