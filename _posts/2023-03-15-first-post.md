@@ -8,7 +8,7 @@ tags:
   - Classes
 classes: wide
 header:
-  image: https://raw.githubusercontent.com/sapiosexualbd/sapiosexualbd.github.io/master/header.JPG
+  image: header.png
 ---
 
 
