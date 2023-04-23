@@ -8,7 +8,7 @@ tags:
   - Classes
 classes: wide
 header:
-  image: header.png
+  image: /posts/header.png
 ---
 
 
